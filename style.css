@@ -10,7 +10,7 @@ body h1 {
  body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-sizing: border-box;
-    background-image: url(circuit.jpg);
+    background-image: url(circuit.jpg); /* here is my background image */
     margin-top: 0px;
     margin-bottom: 0px;
    
@@ -75,6 +75,7 @@ article {
 .socials {
   text-align: center;
 }
+/* link styling for my buttons */
 a {
   background-color: royalblue;
   color: white;
